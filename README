@@ -1,0 +1,9 @@
+eBoard is a sw/hw project to make an electronic score board,
+which will be used on Martial Arts championship.
+
+- 2 points markers     / one per player
+- 2 faults indicators  / one per player
+- buttons for add points (1,2,3 points)  / one per player
+- button for add faults / one per player
+
+The display will have two colour, one for each player: blue/red.
